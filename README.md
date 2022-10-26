@@ -1,4 +1,4 @@
-# yatoi_note
+# yatoi-note
 
 ## 目次 
 1. [環境構築](./EnvBuild/README.md) (完成)
